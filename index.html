@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trivia</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container" id="welcomeScreen">
+    <h1>Trivia</h1>
+    <label for="playerName">Ingresa tu nombre:</label>
+    <input type="text" id="playerName" />
+    <label for="questionType">Elige el tipo de pregunta:</label>
+    <select id="questionType">
+      <option value="geografia">Geografía</option>
+      <option value="arte">Arte</option>
+    </select>
+    <button onclick="startGame()">Jugar</button>
+  </div>
+
+  <div class="container" id="questionScreen" style="display: none;">
+    <h1 id="welcomeMessage"></h1>
+    <p id="question"></p>
+    <div id="options">
+      <button class="option" onclick="checkAnswer(0)"></button>
+      <button class="option" onclick="checkAnswer(1)"></button>
+      <button class="option" onclick="checkAnswer(2)"></button>
+    </div>
+    <p id="correctAnswer"></p>
+  </div>
+
+  <div class="container" id="finalMessage" style="display: none;">
+    <h1>Trivia completada</h1>
+    <p id="finalMessageText"></p>
+    <p id="scoreMessage"></p>
+    <button onclick="resetGame()">Volver a jugar</button>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
