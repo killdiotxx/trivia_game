@@ -1,5 +1,5 @@
-#Trivia - Readme
-##Proceso de diseño de la experiencia de uso
+# Trivia - Readme
+## Proceso de diseño de la experiencia de uso
 El objetivo de la Trivia es crear un juego interactivo en el que el usuario pueda responder preguntas de diferentes categorías y obtener un puntaje según sus respuestas. Para diseñar la experiencia de uso, seguí los siguientes pasos:
 
 **Definir el concepto:** Decidí crear una Trivia con preguntas de diferentes temas, como geografía y arte, para brindar variedad al usuario y mantenerlo entretenido.
@@ -12,18 +12,18 @@ El objetivo de la Trivia es crear un juego interactivo en el que el usuario pued
 
 **Pruebas y ajustes:** Realicé pruebas con amigos y familiares para obtener comentarios sobre la experiencia de uso. Basándome en sus comentarios, realicé ajustes en la presentación de las preguntas y en la forma en que se mostraban las respuestas correctas.
 
-##Resolución de necesidad
+## Resolución de necesidad
 La Trivia resuelve la necesidad de entretenimiento y desafío para el usuario. Al brindarle la opción de elegir el tipo de pregunta que desea responder, la Trivia se adapta a los intereses y conocimientos del usuario. Además, al mostrar el puntaje al final, el usuario puede medir su desempeño y compararlo con otras partidas. La Trivia proporciona una experiencia de juego divertida y educativa al mismo tiempo.
 
-##Especificaciones
+## Especificaciones
 La Trivia está desarrollada utilizando HTML, CSS y JavaScript. Se utiliza JavaScript para la lógica del juego, como mostrar preguntas y opciones, verificar respuestas y calcular el puntaje. El diseño se enfoca en ser atractivo y fácil de usar, con una paleta de colores que incluye azul claro para el fondo y efectos visuales para resaltar las respuestas correctas e incorrectas.
 
-##Contribuciones
+## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar o agregar nuevas características a la trivia, por favor crea un pull request y estaré encantada de revisarlo.
 
-##Agradecimientos
+## Agradecimientos
 Este proyecto ha sido creado como parte de un desafío final de programación y aprendizaje. Agradezco a la comunidad de desarrolladores por sus valiosos recursos y tutoriales que me han ayudado a mejorar mis habilidades en el desarrollo web.
 
-##Contacto
+## Contacto
 Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en contactarme a través de mi correo electrónico: almitamena2013@gmail.com.
 
